@@ -10,9 +10,9 @@ An IoT-enabled closed-loop speed control system for a **775 brushed DC motor** (
 
 ## Physical Build
 
-| Hardware Overview | Top View |
+| Hardware Top View | Hardware Side View |
 |:---:|:---:|
-| ![Hardware Overview](docs/phase-2/photos/hardware_overview.jpg) | ![Top View](docs/phase-2/photos/hardware_top_view.jpg) |
+| ![Hardware Top View](docs/phase-2/photos/hardware_top_view.jpg) | ![Hardware Side View](docs/phase-2/photos/hardware_side_view.jpg) |
 
 | Team Photo | Team Photo |
 |:---:|:---:|
